@@ -1,2 +1,3 @@
 "new file content" 
 new change
+final edit in self test
